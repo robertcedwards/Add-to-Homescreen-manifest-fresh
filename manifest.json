@@ -1,0 +1,18 @@
+{
+    "short_name": "Griv",
+    "name": "Griv: For the ones  that show up.",
+    "display": "standalone",
+    "id": "/griv",
+    "start_url": "/griv",
+    "scope": "/griv",
+    "icons": [
+        {
+            "src": "apple-touch-icon.png",
+            "sizes": "any",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+  }
+  
+    

@@ -1,0 +1,9 @@
+name = "add-to-home-javascript"
+compatibility_date = "2025-07-29"
+compatibility_flags = ["nodejs_compat"]
+
+[env.production]
+name = "add-to-home-javascript"
+
+[env.staging]
+name = "add-to-home-javascript-staging" 
