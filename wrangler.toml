@@ -1,6 +1,6 @@
-name = "add-to-home-manifest-fresh"
+name = "add-to-home-freshness-manifest"
 compatibility_date = "2025-07-29"
 compatibility_flags = ["nodejs_compat"]
 
 [env.production]
-name = "add-to-home-manifest-fresh"
+name = "add-to-home-freshness-manifest"
